@@ -1,0 +1,15 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Aaron Papp",
+      "copyrightText": "Copyright (c) {licenseYears} {companyName}. All rights reserved.\nLicensed under the MIT license. See LICENSE file in the project root for details.",
+      "variables": {
+        "licenseYears": "2023"
+      }
+    },
+    "orderingRules": {
+      "usingDirectivesPlacement": "preserve"
+    }
+  }
+}
